@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hashlist version="1.1">
+
+  <creatorinfo>
+    <name>Big Als Retina #7</name>
+    <username>bigalsretina7</username>
+<hostname>Big-Als-Retina-7.local</hostname>
+    <tool>mhl ver. 0.2.0</tool>
+    <startdate>2021-10-27T19:15:03Z</startdate>
+    <finishdate>2021-10-27T19:15:04Z</finishdate>
+  </creatorinfo>
+
+  <hash>
+    <file>E007_C001_20211027_R1/E007_C001_20211027_R00000.dng</file>
+    <size>21299200</size>
+    <lastmodificationdate>2021-10-27T18:41:53Z</lastmodificationdate>
+    <xxhash64be>fe002b7597d46ae1</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C001_20211027_R1/E007_C001_20211027_R00001.dng</file>
+    <size>17235968</size>
+    <lastmodificationdate>2021-10-27T18:41:53Z</lastmodificationdate>
+    <xxhash64be>feb6a175c5deaa5b</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C001_20211027_R1/E007_C001_20211027_R00002.dng</file>
+    <size>17235968</size>
+    <lastmodificationdate>2021-10-27T18:41:54Z</lastmodificationdate>
+    <xxhash64be>4c035dc2773e6ca5</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C001_20211027_R1/E007_C001_20211027_R00003.dng</file>
+    <size>17235968</size>
+    <lastmodificationdate>2021-10-27T18:41:54Z</lastmodificationdate>
+    <xxhash64be>b7f1f513a91b653c</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C001_20211027_R1/E007_C001_20211027_R00004.dng</file>
+    <size>17235968</size>
+    <lastmodificationdate>2021-10-27T18:41:54Z</lastmodificationdate>
+    <xxhash64be>bdb93de0b21bb7a9</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C001_20211027_R1/E007_C001_20211027_R00005.dng</file>
+    <size>17235968</size>
+    <lastmodificationdate>2021-10-27T18:41:54Z</lastmodificationdate>
+    <xxhash64be>ba98d88b58fca2eb</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C001_20211027_R1/E007_C001_20211027_R00006.dng</file>
+    <size>17235968</size>
+    <lastmodificationdate>2021-10-27T18:41:54Z</lastmodificationdate>
+    <xxhash64be>b7370dbb267b7d4e</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C001_20211027_R1/E007_C001_20211027_R00007.dng</file>
+    <size>17235968</size>
+    <lastmodificationdate>2021-10-27T18:41:54Z</lastmodificationdate>
+    <xxhash64be>8f675c58980011d8</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C001_20211027_R1/E007_C001_20211027_R00008.dng</file>
+    <size>17235968</size>
+    <lastmodificationdate>2021-10-27T18:41:54Z</lastmodificationdate>
+    <xxhash64be>278bcb93b95809ad</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C001_20211027_R1/E007_C001_20211027_R00009.dng</file>
+    <size>17235968</size>
+    <lastmodificationdate>2021-10-27T18:41:54Z</lastmodificationdate>
+    <xxhash64be>fdf8f26b6735efd9</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C001_20211027_R1/E007_C001_20211027_R00010.dng</file>
+    <size>17235968</size>
+    <lastmodificationdate>2021-10-27T18:41:54Z</lastmodificationdate>
+    <xxhash64be>5b853b2a81f350d3</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C002_20211027_R1/E007_C002_20211027_R00001.dng</file>
+    <size>15073280</size>
+    <lastmodificationdate>2021-10-27T18:42:00Z</lastmodificationdate>
+    <xxhash64be>82270406a6947772</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C002_20211027_R1/E007_C002_20211027_R00002.dng</file>
+    <size>15073280</size>
+    <lastmodificationdate>2021-10-27T18:42:00Z</lastmodificationdate>
+    <xxhash64be>8985533dbbbb6ecd</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C002_20211027_R1/E007_C002_20211027_R00003.dng</file>
+    <size>15007744</size>
+    <lastmodificationdate>2021-10-27T18:42:00Z</lastmodificationdate>
+    <xxhash64be>6104ca4d83e88eb1</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C002_20211027_R1/E007_C002_20211027_R00004.dng</file>
+    <size>15007744</size>
+    <lastmodificationdate>2021-10-27T18:42:00Z</lastmodificationdate>
+    <xxhash64be>f186a4a218fce02f</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C002_20211027_R1/E007_C002_20211027_R00005.dng</file>
+    <size>15007744</size>
+    <lastmodificationdate>2021-10-27T18:42:00Z</lastmodificationdate>
+    <xxhash64be>a2207cd7e9ac0b14</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C002_20211027_R1/E007_C002_20211027_R00006.dng</file>
+    <size>15073280</size>
+    <lastmodificationdate>2021-10-27T18:42:00Z</lastmodificationdate>
+    <xxhash64be>e8dd329fbc1e5c07</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C002_20211027_R1/E007_C002_20211027_R00007.dng</file>
+    <size>15073280</size>
+    <lastmodificationdate>2021-10-27T18:42:00Z</lastmodificationdate>
+    <xxhash64be>01ec7d39f32abaa4</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C002_20211027_R1/E007_C002_20211027_R00008.dng</file>
+    <size>15007744</size>
+    <lastmodificationdate>2021-10-27T18:42:00Z</lastmodificationdate>
+    <xxhash64be>4aecf351d2d3762e</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C002_20211027_R1/E007_C002_20211027_R00009.dng</file>
+    <size>15073280</size>
+    <lastmodificationdate>2021-10-27T18:42:00Z</lastmodificationdate>
+    <xxhash64be>ece0f08a6c9361f7</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>E007_C002_20211027_R1/E007_C002_20211027_R00010.dng</file>
+    <size>15007744</size>
+    <lastmodificationdate>2021-10-27T18:42:00Z</lastmodificationdate>
+    <xxhash64be>aa884970afd38e7f</xxhash64be>
+    <hashdate>2021-10-27T19:15:03Z</hashdate>
+  </hash>
+</hashlist>

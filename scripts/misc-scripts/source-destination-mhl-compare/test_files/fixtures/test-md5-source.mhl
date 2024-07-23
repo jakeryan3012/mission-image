@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hashlist version="1.1">
+
+  <creatorinfo>
+    <name>missiondigital</name>
+    <username>missiondigital</username>
+<hostname>WALES-LAB.local</hostname>
+    <tool>mhl ver. 0.2.0</tool>
+    <startdate>2021-10-28T19:36:38Z</startdate>
+    <finishdate>2021-10-28T19:36:38Z</finishdate>
+  </creatorinfo>
+
+  <hash>
+    <file>LCL.CA1/2021-10-28_D040 .AAD/LCL_2021-10-28_D040 _Mono.csv</file>
+    <size>8314</size>
+    <lastmodificationdate>2021-10-28T19:35:24Z</lastmodificationdate>
+    <xxhash64be>hgiyhlh</xxhash64be>
+    <md5>a70ac365b150cb54</md5>
+    <hashdate>2021-10-28T19:36:38Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>LCL.CA1/2021-10-28_D040 .AAD/LCL_2021-10-28_D040 _Mono.pdf</file>
+    <size>26446</size>
+    <lastmodificationdate>2021-10-28T19:35:24Zmd</lastmodificationdate>
+    <xxhash64be>hulh</xxhash64be>
+    <md5>7710e05099611745</md5>
+    <hashdate>2021-10-28T19:36:38Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>LCL.CA1/2021-10-28_D040 .AAN/LCL_2021-10-28_D040 _Poly.csv</file>
+    <size>8310</size>
+    <lastmodificationdate>2021-10-28T19:35:24Z</lastmodificationdate>
+    <xxhash64be>lihiu</xxhash64be>
+    <md5>594a6187ddb3b836</md5>
+    <hashdate>2021-10-28T19:36:38Z</hashdate>
+  </hash>
+</hashlist>

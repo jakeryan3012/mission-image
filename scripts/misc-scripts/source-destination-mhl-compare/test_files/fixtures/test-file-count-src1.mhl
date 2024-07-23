@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hashlist version="1.1">
+
+  <creatorinfo>
+    <name>Big Als Retina #7</name>
+    <username>bigalsretina7</username>
+<hostname>BigAlsRetina7</hostname>
+    <tool>mhl ver. 0.2.0</tool>
+    <startdate>2021-10-24T21:57:03Z</startdate>
+    <finishdate>2021-10-24T21:57:03Z</finishdate>
+  </creatorinfo>
+  <hash>
+    <file>A390CDQE/Clip/A390C001_211024QE/A390C001_211024QE.mxf</file>
+    <size>2043185712</size>
+    <lastmodificationdate>2021-10-24T21:41:57Z</lastmodificationdate>
+    <xxhash64be>6814cb9809bf9e85</xxhash64be>
+    <hashdate>2021-10-24T21:57:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A390CDQE/Clip/A390C002_211024JV/A390C002_211024JV.mxf</file>
+    <size>35850938928</size>
+    <lastmodificationdate>2021-10-24T21:43:15Z</lastmodificationdate>
+    <xxhash64be>23d607f18cac0c02</xxhash64be>
+    <hashdate>2021-10-24T21:57:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A390CDQE/Clip/A390C003_2110249X/A390C003_2110249X.mxf</file>
+    <size>798140976</size>
+    <lastmodificationdate>2021-10-24T21:43:19Z</lastmodificationdate>
+    <xxhash64be>5849c9848fa30c5b</xxhash64be>
+    <hashdate>2021-10-24T21:57:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A390CDQE/Clip/A390C004_21102469/A390C004_21102469.mxf</file>
+    <size>33935485488</size>
+    <lastmodificationdate>2021-10-24T21:44:32Z</lastmodificationdate>
+    <xxhash64be>d11be8f9b9484c73</xxhash64be>
+    <hashdate>2021-10-24T21:57:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A390CDQE/Clip/A390C005_211024HL/A390C005_211024HL.mxf</file>
+    <size>35723242032</size>
+    <lastmodificationdate>2021-10-24T21:45:50Z</lastmodificationdate>
+    <xxhash64be>e2bba9cf0241400e</xxhash64be>
+    <hashdate>2021-10-24T21:57:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A390CDQE/Clip/A390C006_211024WR/A390C006_211024WR.mxf</file>
+    <size>49195264560</size>
+    <lastmodificationdate>2021-10-24T21:47:39Z</lastmodificationdate>
+    <xxhash64be>501a6635faf57938</xxhash64be>
+    <hashdate>2021-10-24T21:57:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A390CDQE/Clip/A390C007_211024JC/A390C007_211024JC.mxf</file>
+    <size>44534327856</size>
+    <lastmodificationdate>2021-10-24T21:49:18Z</lastmodificationdate>
+    <xxhash64be>8fa87d9d56637783</xxhash64be>
+    <hashdate>2021-10-24T21:57:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A390CDQE/Clip/A390C008_211024RZ/A390C008_211024RZ.mxf</file>
+    <size>28795685424</size>
+    <lastmodificationdate>2021-10-24T21:50:24Z</lastmodificationdate>
+    <xxhash64be>bad0fc10792bb604</xxhash64be>
+    <hashdate>2021-10-24T21:57:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A390CDQE/Clip/A390C009_211024XN/A390C009_211024XN.mxf</file>
+    <size>18196843056</size>
+    <lastmodificationdate>2021-10-24T21:51:05Z</lastmodificationdate>
+    <xxhash64be>9a1460939c82df6f</xxhash64be>
+    <hashdate>2021-10-24T21:57:03Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A390CDQE/Clip/A390C010_211024ZV/A390C010_211024ZV.mxf</file>
+    <size>38596422192</size>
+    <lastmodificationdate>2021-10-24T21:52:32Z</lastmodificationdate>
+    <xxhash64be>e5e36b9958dd9296</xxhash64be>
+    <hashdate>2021-10-24T21:57:03Z</hashdate>
+  </hash>
+</hashlist>

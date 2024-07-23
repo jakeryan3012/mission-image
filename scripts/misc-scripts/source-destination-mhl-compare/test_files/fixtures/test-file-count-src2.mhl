@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hashlist version="1.1">
+
+  <creatorinfo>
+    <name>Big Als Retina #7</name>
+    <username>bigalsretina7</username>
+<hostname>BigAlsRetina7</hostname>
+    <tool>mhl ver. 0.2.0</tool>
+    <startdate>2021-10-25T00:16:20Z</startdate>
+    <finishdate>2021-10-25T00:16:20Z</finishdate>
+  </creatorinfo>
+
+  <hash>
+    <file>A391CC43/Clip/A391C001_2110254N/A391C001_2110254N.mxf</file>
+    <size>13695527472</size>
+    <lastmodificationdate>2021-10-25T00:11:35Z</lastmodificationdate>
+    <xxhash64be>5d605e850fd79785</xxhash64be>
+    <hashdate>2021-10-25T00:16:20Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A391CC43/Clip/A391C002_211025DP/A391C002_211025DP.mxf</file>
+    <size>18994948656</size>
+    <lastmodificationdate>2021-10-25T00:12:20Z</lastmodificationdate>
+    <xxhash64be>2a0e8522eb2be34a</xxhash64be>
+    <hashdate>2021-10-25T00:16:20Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A391CC43/Clip/A391C003_211025JU/A391C003_211025JU.mxf</file>
+    <size>24294369840</size>
+    <lastmodificationdate>2021-10-25T00:13:14Z</lastmodificationdate>
+    <xxhash64be>cbe38b10f528b52b</xxhash64be>
+    <hashdate>2021-10-25T00:16:20Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A391CC43/Clip/A391C004_211025EK/A391C004_211025EK.mxf</file>
+    <size>17334889008</size>
+    <lastmodificationdate>2021-10-25T00:13:52Z</lastmodificationdate>
+    <xxhash64be>f84c727163c4abc2</xxhash64be>
+    <hashdate>2021-10-25T00:16:20Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A391CC43/Clip/A391C005_211025EX/A391C005_211025EX.mxf</file>
+    <size>12003543600</size>
+    <lastmodificationdate>2021-10-25T00:14:19Z</lastmodificationdate>
+    <xxhash64be>1f3fe40818ec6df5</xxhash64be>
+    <hashdate>2021-10-25T00:16:20Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A391CC43/Clip/A391C006_2110252A/A391C006_2110252A.mxf</file>
+    <size>21101947440</size>
+    <lastmodificationdate>2021-10-25T00:15:05Z</lastmodificationdate>
+    <xxhash64be>6fe39cee24f44976</xxhash64be>
+    <hashdate>2021-10-25T00:16:20Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A391CC43/Clip/A391C007_211025ZR/A391C007_211025ZR.mxf</file>
+    <size>8172636720</size>
+    <lastmodificationdate>2021-10-25T00:15:23Z</lastmodificationdate>
+    <xxhash64be>5d8dd9767df573a4</xxhash64be>
+    <hashdate>2021-10-25T00:16:20Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A391CC43/Clip/A391C008_211025NU/A391C008_211025NU.mxf</file>
+    <size>9864620592</size>
+    <lastmodificationdate>2021-10-25T00:15:47Z</lastmodificationdate>
+    <xxhash64be>09e2778cfe4ca1be</xxhash64be>
+    <hashdate>2021-10-25T00:16:20Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A391CC43/Clip/A391C009_21102555/A391C009_21102555.mxf</file>
+    <size>4597123632</size>
+    <lastmodificationdate>2021-10-25T00:15:55Z</lastmodificationdate>
+    <xxhash64be>b88c359ddec2f960</xxhash64be>
+    <hashdate>2021-10-25T00:16:20Z</hashdate>
+  </hash>
+
+  <hash>
+    <file>A391CC43/Clip/A391C010_211025FF/A391C010_211025FF.mxf</file>
+    <size>10950044208</size>
+    <lastmodificationdate>2021-10-25T00:16:20Z</lastmodificationdate>
+    <xxhash64be>38e5401ffa2e3518</xxhash64be>
+    <hashdate>2021-10-25T00:16:20Z</hashdate>
+  </hash>
+
+</hashlist>
